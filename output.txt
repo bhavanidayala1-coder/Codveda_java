@@ -1,0 +1,5 @@
+File Analysis
+--------------
+Total Lines:3
+Total words:15
+Total Characters:100
